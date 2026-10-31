@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- lâmpada acesa -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M38,40 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0 z" />
+    <!-- ponto, traço, ponto -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,70 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,66 h20 v8 h-20 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,70 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 z" />
+</vector>
